@@ -20,330 +20,330 @@ msgstr ""
 "Generated-By: Babel 2.5.1\n"
 
 msgid "The Pomodoro is running"
-msgstr ""
+msgstr "Қызанақ жарылды"
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "жыл"
+msgstr[1] "жыл"
 
 msgid "month"
 msgid_plural "months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ай"
+msgstr[1] "ай"
 
 msgid "day"
 msgid_plural "days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "күн"
+msgstr[1] "күн"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "сағат"
+msgstr[1] "сағат"
 
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "минут"
+msgstr[1] "минут"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
+msgstr "жұмыс істеген қолданушылар саны"
 
 msgid "registered users spend on completing pomodoros"
-msgstr ""
+msgstr "орындаған қолданушылардың жұмсаған уақыты"
 
 msgid "for all time"
-msgstr ""
+msgstr "барлық уақытта"
 
 msgid "Are you sure want to delete"
-msgstr ""
+msgstr "Шын жойып жібергіңіз кеп тұр ма?"
 
 msgid "Delete"
-msgstr ""
+msgstr "Жою"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Жоқ"
 
 msgid "record"
-msgstr ""
+msgstr "жазу"
 
 msgid "Loading"
-msgstr ""
+msgstr "Жүрім"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "Сақталды"
 
 msgid "Integrations"
-msgstr ""
+msgstr "Қосымша"
 
 msgid "Add"
-msgstr ""
+msgstr "Қосу"
 
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
-msgstr ""
+msgstr "телеграмыңызға, ішінде "/start" енгізіп, кодты төменде көрсетіңіз"
 
 msgid "Code"
-msgstr ""
+msgstr "Код"
 
 msgid "Close"
-msgstr ""
+msgstr "Жабу"
 
 msgid "Register"
-msgstr ""
+msgstr "Тіркелу"
 
 msgid "Connect"
-msgstr ""
+msgstr "Қосылу"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "Ажырау (айыру)"
 
 msgid "Integration with Google"
-msgstr ""
+msgstr "Google-мен қосымша"
 
 msgid "Login to the service using Google authentication."
-msgstr ""
+msgstr "Google арқылы кіру"
 
 msgid "Integration with Facebook"
-msgstr ""
+msgstr "Facebook-пен қосымша"
 
 msgid "Login to the service using Facebook authentication."
-msgstr ""
+msgstr "Facebook арқылы кіру"
 
 msgid "Integration with Github"
-msgstr ""
+msgstr "Github-пен қосымша"
 
 msgid "Login to the service using Github authentication."
-msgstr ""
+msgstr "Facebook арқылы кіру"
 
 msgid "Enable Telegram Bot"
-msgstr ""
+msgstr "Телеграм ботын қосыңыз"
 
 msgid "Get notifications, check history"
-msgstr ""
+msgstr "Хабарлама аласыз, қолдану тарихын қарайсыз"
 
 msgid "Application"
-msgstr ""
+msgstr "Қолданба"
 
 msgid "Theme"
-msgstr ""
+msgstr "Тем"
 
 msgid "light"
-msgstr ""
+msgstr "жарық"
 
 msgid "dark"
-msgstr ""
+msgstr "Қараңғы"
 
 msgid "auto"
-msgstr ""
+msgstr "ауто"
 
 msgid "Language"
-msgstr ""
+msgstr "Тіл"
 
 msgid "Date format"
-msgstr ""
+msgstr "Күнтізбе үлгі"
 
 msgid "Time format"
-msgstr ""
+msgstr "Уақыт форматы"
 
 msgid "Time zone"
-msgstr ""
+msgstr "Уақыт зонасы"
 
 msgid "Daily history"
-msgstr ""
+msgstr "Ескі жазбаларыңыз"
 
 msgid "Clear DONE history once per day"
-msgstr ""
+msgstr "Күніне бір мәрте жазбаларды тазарту"
 
 msgid "At time"
-msgstr ""
+msgstr "уақытқа"
 
 msgid "Categories"
-msgstr ""
+msgstr "Категория"
 
 msgid "Create a category"
-msgstr ""
+msgstr "Жаңадан қосу"
 
 msgid "Add category"
-msgstr ""
+msgstr "Категория қосу"
 
 msgid "Send Daily Reports"
-msgstr ""
+msgstr "Күнделікті репорт жіберу"
 
 msgid "Send reports on email: "
-msgstr ""
+msgstr "Репортты осы e-mail жіберу"
 
 msgid "Send reports on telegram"
-msgstr ""
+msgstr "Репортты telegram-ға жіберу"
 
 msgid "Reports Time"
 msgstr ""
 
 msgid "Notifications"
-msgstr ""
+msgstr "Хабарламалар"
 
 msgid "Volume"
-msgstr ""
+msgstr "Дауыс"
 
 msgid "Play alarm sound"
-msgstr ""
+msgstr "Қоңырау дауысы"
 
 msgid "Play ticking sound"
-msgstr ""
+msgstr "Сағат тілі дыбысы"
 
 msgid "Play ticking sound while breaks"
-msgstr ""
+msgstr "Үзілісте сағат тілі дыбысы"
 
 msgid "Notify when there is one minute left"
-msgstr ""
+msgstr "Бітер 1 минут алды ескерту"
 
 msgid "Enable Web Notifications"
-msgstr ""
+msgstr "Web-хабарлама"
 
 msgid "Enable Telegram Notifications"
-msgstr ""
+msgstr "Telegram-хабарламасы"
 
 msgid "Enable Browser Alerts"
-msgstr ""
+msgstr "Браузер хабарламасы"
 
 msgid "Raise browser alert when pomodoro/break is over"
-msgstr ""
+msgstr "Қызанақ/үзіліс аяқталысымыен браузер хабарламасын көрсету"
 
 msgid "Hide notificaions"
-msgstr ""
+msgstr "Хабарламаларды жасыру"
 
 msgid "in 2 seconds"
-msgstr ""
+msgstr "2 секундтан кейін"
 
 msgid "in 3 seconds"
-msgstr ""
+msgstr "3 секундтан кейін"
 
 msgid "in 5 seconds"
-msgstr ""
+msgstr "5 секундтан кейін"
 
 msgid "in 10 seconds"
-msgstr ""
+msgstr "10 секундтан кейін"
 
 msgid "Send test notification"
-msgstr ""
+msgstr "Тест ретінде хабарлама жіберу"
 
 msgid "Timer"
-msgstr ""
+msgstr "Таймер"
 
 msgid "Schemes"
-msgstr ""
+msgstr "Сызбалар"
 
 msgid "Pomodoro duration:"
-msgstr ""
+msgstr "Қызанақ ұзақтығы"
 
 msgid "in seconds"
-msgstr ""
+msgstr "секундпен"
 
 msgid "in minutes"
-msgstr ""
+msgstr "минутпен"
 
 msgid "Short break duration:"
-msgstr ""
+msgstr "Қысқа үзіліс ұзақтығы"
 
 msgid "Long break duration:"
-msgstr ""
+msgstr "Ұзақ үзіліс ұзақтығы"
 
 msgid "Long break delay:"
-msgstr ""
+msgstr "Ұзақ үзіліс өлшемі"
 
 msgid "in pomodoros"
-msgstr ""
+msgstr "қызанақпен"
 
 msgid "Auto start pomodoros"
-msgstr ""
+msgstr "Қызанақ үшін автостарт"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr ""
+msgstr "Егер мақсаттар тізімі бос болма, қызанақты бастамау"
 
 msgid "Auto start breaks"
-msgstr ""
+msgstr "Үзіліске аутостарт"
 
 msgid "Daily Goal"
-msgstr ""
+msgstr "Күн Мақсаты"
 
 msgid "Sort by"
-msgstr ""
+msgstr "Қалай іріктеу"
 
 msgid "rating"
-msgstr ""
+msgstr "рейтинг"
 
 msgid "created"
-msgstr ""
+msgstr "жасалғаны"
 
 msgid "New"
-msgstr ""
+msgstr "Жаңа"
 
 msgid "Done"
-msgstr ""
+msgstr "Аяқталды"
 
 msgid "Like"
-msgstr ""
+msgstr "Лүпіл!"
 
 msgid "like"
 msgid_plural "likes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Лүпіл"
+msgstr[1] "Лүпілдер"
 
 msgid "Write your ideas here"
-msgstr ""
+msgstr "Өз ойларыңызды осы араға тастаңыз"
 
 msgid "Title"
-msgstr ""
+msgstr "Тақырып"
 
 msgid "Description"
-msgstr ""
+msgstr "Сипаттау"
 
 msgid "Create"
-msgstr ""
+msgstr "Жарыққа шығару"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
-msgstr ""
+msgstr "Пікіріңізге алғыс! Жазған хабарламаңыз тексеруге жіберілді"
 
 msgid "TODO list was updated."
-msgstr ""
+msgstr "Мақсаттар тізімі жаңарды"
 
 msgid "Activities"
-msgstr ""
+msgstr "Белсенділік"
 
 msgid "Category"
-msgstr ""
+msgstr "Категория"
 
 msgid "Short description"
-msgstr ""
+msgstr "Қысқа сипаттама"
 
 msgid "Add Activity"
-msgstr ""
+msgstr "Жаңа әрекет қосу"
 
 msgid "Add to TODO"
-msgstr ""
+msgstr "Мақсаттар тізіміне қосу"
 
 msgid "Add more"
-msgstr ""
+msgstr "Тағы қосу"
 
 msgid "Edit"
-msgstr ""
+msgstr "Өзгерту"
 
 msgid "Remove"
-msgstr ""
+msgstr "Жою"
 
 msgid "Mark as daily task"
-msgstr ""
+msgstr "Күн мақсатына айналдыра беру"
 
 msgid "Click/tap to edit items."
-msgstr ""
+msgstr "Өзгерту үшін үстіне басыңыз"
 
 msgid "Click on a number to add more."
-msgstr ""
+msgstr "Тағы да қосу үшін нөмірге басыңыз"
 
 msgid "The list is empty"
-msgstr ""
+msgstr "Тізім бос қой"
 
 msgid "Try to mark TODO as activity or use the form above"
 msgstr ""
